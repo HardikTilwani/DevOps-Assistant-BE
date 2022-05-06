@@ -1,0 +1,6 @@
+<configuration>
+<property>
+<name>dfs.data.dir</name>
+<value>/root/None</value>
+</property>
+</configuration>
